@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhoGoesFirst</string>
+    <string name="team_one_label">TextView</string>
+    <string name="team_two_label">TextView</string>
+    <string name="who_goes_first">Who goes first</string>
+    <string name="team_one_edit_text">Name</string>
+    <string name="team_two_edit_text">Name</string>
+    <string name="result_text">Result shown here</string>
+</resources>
